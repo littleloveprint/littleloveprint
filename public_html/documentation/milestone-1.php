@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
+
+		<!-- custom CSS stylesheet -->
+		<link rel="stylesheet" href="/css/style.css" type="text/css" />
 
 		<title>littleloveprint</title>
 	</head>
@@ -17,7 +20,7 @@
 			<p>The majority of users visiting my site will be potential clients and/or employers. These people are looking for someone with my skill set.</p>
 			<h3>Goal:</h3>
 			<p>The number one goal of this project is to attract freelance clients.</p>
-			<h3>User Story</h3>
+			<h3>User Story:</h3>
 			<p>As a user, Nakeesia needs to determine whether or not I am the right developer for her project.</p>
 			<h2>Persona</h2>
 			<p><strong>Name: </strong>Nakeesia Kann<br><strong>Age: </strong>25</p>
