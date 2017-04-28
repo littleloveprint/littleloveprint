@@ -3,14 +3,15 @@
 	<head>
 		<meta charset="utf-8">
 
-		<!-- custom CSS stylesheet -->
-		<link rel="stylesheet" href="/css/style.css" type="text/css" />
+		<!-- Custom CSS stylesheet -->
+		<link rel="stylesheet" href="/public_html/documentation/css/style.css" type="text/css" />
 
 		<title>littleloveprint</title>
 	</head>
 	<body>
 		<header>
 			<h1>littleloveprint</h1>
+			<p>Insert tag line??</p>
 		</header>
 		<main>
 			<h2>Purpose, Audience, Goal and User Story</h2>

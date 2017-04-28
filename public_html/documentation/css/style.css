@@ -1,0 +1,18 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	background-color: rgba(255, 186, 106, 0.5);
+}
+
+header {
+	background-color: rgba(255, 186, 106, 0.75);
+}
+
+h1 {
+	color: teal;
+	font-size: 5em;
+}
+
+h2 {
+	color: slategray;
+}
