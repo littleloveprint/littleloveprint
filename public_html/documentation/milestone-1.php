@@ -6,7 +6,7 @@
 		<!-- Custom CSS stylesheet -->
 		<link rel="stylesheet" href="/public_html/documentation/css/style.css" type="text/css" />
 
-		<title>littleloveprint</title>
+		<title>littleloveprint M-1</title>
 	</head>
 	<body>
 		<header>
