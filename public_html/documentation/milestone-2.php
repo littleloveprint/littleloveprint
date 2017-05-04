@@ -19,6 +19,9 @@
 		</ul>
 		Included underneath each gallery will be a short outline of my role(s) in each project.</p>
 		<h2><strong>Contact:</strong></h2>
-		<p>This section will list my professional email address, my universal at handle (socail links also listed at top of page), and a contact form.</p>
+		<p>This section will list my professional email address, my universal at handle (social links also listed at top of page), and a contact form.</p>
+		<p><strong></strong></p>
+		<img src="img/Screen Shot 2017-05-04 at 6.52.01 AM.png" alt="Mobile Wireframe"><br>
+		<img src="img/Screen Shot 2017-05-04 at 7.50.06 AM.png" alt="Desktop Wireframe">
 	</body>
 </html>
