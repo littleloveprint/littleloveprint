@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 
 		<!-- Custom CSS stylesheet -->
-		<link rel="stylesheet" href="/public_html/documentation/css/style.css" type="text/css" />
+		<link rel="stylesheet" href="/epic/documentation/css/style.css" type="text/css" />
 
 		<title>littleloveprint M-1</title>
 	</head>
