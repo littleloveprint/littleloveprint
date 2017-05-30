@@ -127,10 +127,11 @@
 
 				<!-- Parallax Background -->
 				<div class="parallax-layer parallax-layer-back">
+
 				</div><!-- /Parallax Background -->
 			</div><!-- /First Section -->
 
-			<!--Dummy Content-->
+			<!-- Dummy Content -->
 			<div id="section-2">
 				<div class="container text-center pt-1 mb-3">
 
