@@ -12,7 +12,7 @@
 				href="img/llpfavicon.png">
 
 		<!-- Bootstrap CSS Files -->
-		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/bootstrap/css/bootstrap.css" rel="stylesheet">
 
 		<!-- Custom Fonts Setup via Font-face CSS3 -->
 		<link href="fonts/fonts.css" rel="stylesheet">
