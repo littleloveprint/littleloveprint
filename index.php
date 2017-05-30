@@ -60,106 +60,53 @@
 				<div class="sfooter-content">
 
 					<!-- Navigation bar -->
-					<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+					<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 						<div class="container">
-
-							<!-- Brand and toggle get grouped for better mobile display -->
-							<div class="navbar-header page-scroll">
-								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 									<span class="sr-only">Toggle navigation</span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<a class="navbar-left page-scroll" href="#page-top"><img src="img/1.png" alt="littleloveprint logo"/></a>
+								<div class="small-logo-container">
+									<a class="small-logo" href="#">↥Small Logo</a>
+								</div>
 							</div>
+							<div class="navbar-collapse collapse">
 
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse navbar-ex1-collapse">
 								<ul class="nav navbar-nav navbar-right">
-									<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-									<li class="hidden">
-										<a class="page-scroll" href="#page-top"></a>
-									</li>
-									<li>
-										<a class="page-scroll" href="#about">411</a>
-									</li>
-									<li>
-										<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
-									</li>
-									<li>
-										<a class="page-scroll" href="#contact">CONTACT</a>
-									</li>
+									<li class="active"><a href="#">Active</a></li>
+									<li><a href="#">411</a></li>
+									<li><a href="#">PORTFOLIO</a></li>
+									<li><a href="#">CONTACT</a></li>
 								</ul>
-							</div><!-- /.navbar-collapse -->
-						</div><!-- /.container-fluid -->
-					</nav><!-- /.navigation bar -->
-
-		</header>
-
-		<!-- Content -->
-		<!-- Main Parallax Wrapper -->
-		<div class="parallax">
-
-			<!-- First Section -->
-			<div id="section-1" class="parallax-section">
-
-				<!-- Parallax Content -->
-				<div class="parallax-layer parallax-layer-base">
-
-					<!-- Container to center the content -->
-					<div class="full-bg-img flex-center">
-						<ul>
-							<li>
-								<h1 class="h1-responsive wow fadeInDown" data-wow-delay="0.2s">Does this work!?</h1></li>
-							<li>
-								<p class="wow fadeInDown" data-wow-delay="0.2s">Scroll for WOW!</p>
-							</li>
-							<li>
-								<a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.2s"><i class="fa fa-user left"></i> Button 1</a>
-								<a class="btn btn-outline-white btn-lg wow fadeInRight" data-wow-delay="0.2s"><i class="fa fa-book left"></i> Button 2</a>
-							</li>
-						</ul>
-					</div><!-- /Container to center the content -->
-
-				</div>
-				<!-- /Parallax Content -->
-
-				<!-- Parallax Background -->
-				<div class="parallax-layer parallax-layer-back">
-
-				</div><!-- /Parallax Background -->
-			</div><!-- /First Section -->
-
-			<!-- Dummy Content -->
-			<div id="section-2">
-				<div class="container text-center pt-1 mb-3">
-
-					<div class="row">
-						<div class="col-md-12 text-center">
-
-							<h1 class="mt-3 mb-3 h1-responsive">LEA MCDUFFIE<br>
-								SOFTWARE | GRAPHICS</h1>
-
-							<p>WORD</p>
-							<p>Word.</p>
-							<p>WORD</p>
-							<p>Word.</p>
-							<p>WORD</p>
-							<p>Word.</p>
-
+							</div><!--/.nav-collapse -->
 						</div>
 					</div>
 
-				</div>
-			</div>
-			<!--Dummy Content-->
+					<div class="container-fluid big-logo-row">
+						<div class="container">
+							<div class="row">
+								<div class="col-xs-12 big-logo-container">
+									<h1 class="big-logo">↧Big Logo</h1>
+								</div><!--/.col-xs-12 -->
+							</div><!--/.row -->
+						</div><!--/.container -->
+					</div><!--/.container-fluid -->
 
-		</div>
-		<!--/Main parallax wrapper-->
-		<h2>411</h2>
-		<p>Lea is a software developer specializing in full stack web development, marketing and graphic design.</p>
-		<h2>PORTFOLIO</h2>
-		<h2>CONTACT</h2>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-5 col-md-6 col-sm-8">
+								<h2>LEEEHAA</h2>
+								<p>WORDS</p>
+								<p>WORDS</p>
+								<p>WORDS</p>
+								<p>WORDS</p>
+								<p>WORDS</p>
+								<p>WORDS</p>
+							</div><!--/.col-xs-12 -->
+						</div><!--/.row -->
+					</div><!--/.container -->
 	</body>
 </html>
