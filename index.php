@@ -98,8 +98,64 @@
 		</header>
 
 		<!-- Content -->
-		<h1>LEA MCDUFFIE<br>
-			SOFTWARE | GRAPHICS</h1>
+		<!-- Main Parallax Wrapper -->
+		<div class="parallax">
+
+			<!-- First Section -->
+			<div id="section-1" class="parallax-section">
+
+				<!-- Parallax Content -->
+				<div class="parallax-layer parallax-layer-base">
+
+					<!-- Container to center the content -->
+					<div class="full-bg-img flex-center">
+						<ul>
+							<li>
+								<h1 class="h1-responsive wow fadeInDown" data-wow-delay="0.2s">Does this work!?</h1></li>
+							<li>
+								<p class="wow fadeInDown" data-wow-delay="0.2s">Scroll for WOW!</p>
+							</li>
+							<li>
+								<a class="btn btn-outline-white btn-lg wow fadeInLeft" data-wow-delay="0.2s"><i class="fa fa-user left"></i> Button 1</a>
+								<a class="btn btn-outline-white btn-lg wow fadeInRight" data-wow-delay="0.2s"><i class="fa fa-book left"></i> Button 2</a>
+							</li>
+						</ul>
+					</div><!-- /Container to center the content -->
+
+				</div>
+				<!-- /Parallax Content -->
+
+				<!-- Parallax Background -->
+				<div class="parallax-layer parallax-layer-back">
+				</div><!-- /Parallax Background -->
+			</div><!-- /First Section -->
+
+			<!--Dummy Content-->
+			<div id="section-2">
+				<div class="container text-center pt-1 mb-3">
+
+					<div class="row">
+						<div class="col-md-12 text-center">
+
+							<h1 class="mt-3 mb-3 h1-responsive">LEA MCDUFFIE<br>
+								SOFTWARE | GRAPHICS</h1>
+
+							<p>WORD</p>
+							<p>Word.</p>
+							<p>WORD</p>
+							<p>Word.</p>
+							<p>WORD</p>
+							<p>Word.</p>
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<!--Dummy Content-->
+
+		</div>
+		<!--/Main parallax wrapper-->
 		<h2>411</h2>
 		<p>Lea is a software developer specializing in full stack web development, marketing and graphic design.</p>
 		<h2>PORTFOLIO</h2>
