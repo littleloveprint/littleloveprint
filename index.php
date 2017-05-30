@@ -1,21 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US" class="no-js">
 	<head>
+		<meta name="google-site-verification" content="2wOAvvalmtOK2T875j4nX0zoB8pB7M7KNN3ULO9uwkM"/>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<!-- Bootstrap Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
-
-		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
+		<!-- CSS -->
+		<link rel="stylesheet" href="assets/css/bootstrap.css">
+		<link rel="stylesheet" href="assets/css/font-awesome.css">
+		<link rel="stylesheet" href="assets/css/flexslider.css">
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- Font Awesome -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-		<!-- My Custom CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<!-- Google -->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,200,500,600,700' rel='stylesheet'
+				type='text/css'>
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,6 +42,9 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
+		<script src="assets/js/libs/respond.min.js"></script>
+		<script type="text/javascript" src="assets/js/libs/modernizr.min.js"></script>
+
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
@@ -51,62 +58,60 @@
 		<title>littleloveprint</title>
 	</head>
 
+	<!-- Body -->
 	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+		<body data-spy="scroll" data-target="#main-nav" data-offset="200">
 
-		<!-- Header -->
-		<header>
+				<!-- Page Preloader -->
+				<div id="page-loader"><span class="page-loader-gif"></span></div>
 
-			<body class="sfooter">
-				<div class="sfooter-content">
+					<!-- Navigation Station -->
+			<div id="main-nav" class="navbar navbar-fixed-top">
+				<div class="container">
 
-					<!-- Navigation bar -->
-					<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-						<div class="container">
-							<div class="navbar-header">
-								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-									<span class="sr-only">Toggle navigation</span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-								</button>
-								<div class="small-logo-container">
-									<a class="small-logo" href="#">↥Small Logo</a>
-								</div>
-							</div>
-							<div class="navbar-collapse collapse">
+					<div class="navbar-header">
 
-								<ul class="nav navbar-nav navbar-right">
-									<li class="active"><a href="#">Active</a></li>
-									<li><a href="#">411</a></li>
-									<li><a href="#">PORTFOLIO</a></li>
-									<li><a href="#">CONTACT</a></li>
-								</ul>
-							</div><!--/.nav-collapse -->
-						</div>
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#site-nav">
+							<span class="icon-bar"></span><span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand scrollto" href="#home"><img src="img/1.png" alt="logo">LEA MCDUFFIE<br>SOFTWARE | GRAPHICS</a>
 					</div>
 
-					<div class="container-fluid big-logo-row">
-						<div class="container">
-							<div class="row">
-								<div class="col-xs-12 big-logo-container">
-									<h1 class="big-logo">↧Big Logo</h1>
-								</div><!--/.col-xs-12 -->
-							</div><!--/.row -->
-						</div><!--/.container -->
-					</div><!--/.container-fluid -->
+					<div id="site-nav" class="navbar-collapse collapse">
+						<ul class="nav navbar-nav navbar-right">
+							<li class="sr-only">
+								<a href="#home" class="scrollto">HOME</a>
+							</li>
+							<li>
+								<a href="#about" class="scrollto">411</a>
+							</li>
+							<li>
+								<a href="#portfolio" class="scrollto">PORTFOLIO</a>
+							</li>
+							<li>
+								<a href="#contact" class="scrollto">CONTACT</a>
+							</li>
+						</ul>
+					</div><!-- /navbar-collapse -->
+				</div><!-- /container -->
+			</div><!-- /nav -->
 
-					<div class="container">
-						<div class="row">
-							<div class="col-lg-5 col-md-6 col-sm-8">
-								<h2>LEEEHAA</h2>
-								<p>WORDS</p>
-								<p>WORDS</p>
-								<p>WORDS</p>
-								<p>WORDS</p>
-								<p>WORDS</p>
-								<p>WORDS</p>
-							</div><!--/.col-xs-12 -->
-						</div><!--/.row -->
-					</div><!--/.container -->
+			<!-- Header -->
+			<header id="home">
+				<div class="container text-center">
+					<p>WORDS ON WORDS ON WORDS.</p>
+				</div>
+			</header><!-- /header -->
+
+			<!-- About -->
+			<section id="about" class="add-padding bg-color2">
+				<div class="row">
+					<div class="col-sm-6 scrollimation fade-right d1">
+						<img class="img-responsive polaroid src=img/vert.jpg" alt="tea and code"/>
+					</div>
+				</div>
+			</section>
+			</header>
 	</body>
 </html>
