@@ -82,7 +82,7 @@
 										<a class="page-scroll" href="#page-top"></a>
 									</li>
 									<li>
-										<a class="page-scroll" href="#411">411</a>
+										<a class="page-scroll" href="#about">411</a>
 									</li>
 									<li>
 										<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
