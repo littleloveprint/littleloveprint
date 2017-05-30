@@ -30,48 +30,79 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+		<!-- jQuery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+		<!-- Scrolling Nav JavaScript -->
+		<script src="js/jquery.easing.min.js"></script>
+		<script src="js/scrolling-nav.js"></script>
+
 		<title>littleloveprint</title>
 	</head>
+
+	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+	<!-- Header -->
+	<header>
+
 	<body class="sfooter">
 		<div class="sfooter-content">
 
 			<!-- Navigation bar -->
-			<nav class="navbar navbar-default">
+			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 				<div class="container">
 
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<div class="navbar-header page-scroll">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-left" href="#"><img src="img/1.png" alt="littleloveprint logo"/></a>
+						<a class="navbar-left page-scroll" href="#page-top"><img src="img/1.png" alt="littleloveprint logo"/></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<div class="collapse navbar-collapse navbar-ex1-collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-									aria-expanded="false">Navigation Station<span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="https://www.bosquebrewing.com" target="_blank">HOME</a></li>
-									<li><a href="https://www.marblebrewery.com" target="_blank">411</a></li>
-									<li><a href="https://www.lacumbrebrewing.com" target="_blank">PORTFOLIO</a>
-									</li>
-									<li role="separator" class="divider"></li>
-									<li><a href="https://www.littleloveprint.io">CONTACT</a></li>
-								</ul>
+							<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+							<li class="hidden">
+								<a class="page-scroll" href="#page-top"></a>
+							</li>
+							<li>
+								<a class="page-scroll" href="#411">411</a>
+							</li>
+							<li>
+								<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+							</li>
+							<li>
+								<a class="page-scroll" href="#contact">CONTACT</a>
+							</li>
+						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
 			</nav><!-- /.navigation bar -->
 
-			<!-- Header -->
-			<header>
-				<h2>SOFTWARE | GRAPHICS</h2>
-			</header>
-		</div>
+		<h1>LEA MCDUFFIE<br>
+			SOFTWARE | GRAPHICS</h1>
+	</header>
+
+		<!-- Content -->
+		<h2>411</h2>
+		<p>Lea is a software developer specializing in full stack web development, marketing and graphic design.</p>
+		<h2>PORTFOLIO</h2>
+		<h2>CONTACT</h2>
 	</body>
 </html>
