@@ -1,17 +1,57 @@
 	/*******************************************************************************************************************************
 	***********************************  Parallax  *********************************************************************************
 	 ******************************************************************************************************************************/
-	/* Create the parallax scrolling effect */
+	body, html {
+		height: 100%;
+	}
 	.parallax {
-		/* The image used */
-		background-image: url("img/horiz.jpg");
 
-		/* Set a specific height */
+		background-image: url("/img/horiz.jpg");
 		height: 500px;
 
-		/* Create the parallax scrolling effect */
+		/* Parallax Scrolling Effect */
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
+	}
+
+	/* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
+	@media only screen and (max-device-width: 1024px) {
+		.parallax {
+			background-attachment: scroll;
+		}
+	}
+
+	/* Aspect Ratio */
+	.container {
+		background-color: teal;
+		width: 100%;
+		padding-top: 100%; /* 1:1 Aspect Ratio */
+		position: relative; /* If you want text inside of it */
+	}
+
+	.text {
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	}
+
+	header {
+		position: fixed;
+		right: 0;
+		left: 0;
+		z-index: 1030;
+		margin-bottom: 0;
+		background: teal;
+		padding: 15px 0;
+	}
+
+	body > .parallax-container {
+		padding: 163px;
+	}
+	body > parallax-container ~ .parallax-container {
+		padding: 0;
 	}
