@@ -53,53 +53,53 @@
 
 	<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-	<!-- Header -->
-	<header>
+		<!-- Header -->
+		<header>
 
-	<body class="sfooter">
-		<div class="sfooter-content">
+			<body class="sfooter">
+				<div class="sfooter-content">
 
-			<!-- Navigation bar -->
-			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-				<div class="container">
+					<!-- Navigation bar -->
+					<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+						<div class="container">
 
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header page-scroll">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-left page-scroll" href="#page-top"><img src="img/1.png" alt="littleloveprint logo"/></a>
-					</div>
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header page-scroll">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<a class="navbar-left page-scroll" href="#page-top"><img src="img/1.png" alt="littleloveprint logo"/></a>
+							</div>
 
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse navbar-ex1-collapse">
-						<ul class="nav navbar-nav navbar-right">
-							<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-							<li class="hidden">
-								<a class="page-scroll" href="#page-top"></a>
-							</li>
-							<li>
-								<a class="page-scroll" href="#411">411</a>
-							</li>
-							<li>
-								<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
-							</li>
-							<li>
-								<a class="page-scroll" href="#contact">CONTACT</a>
-							</li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
-			</nav><!-- /.navigation bar -->
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse navbar-ex1-collapse">
+								<ul class="nav navbar-nav navbar-right">
+									<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+									<li class="hidden">
+										<a class="page-scroll" href="#page-top"></a>
+									</li>
+									<li>
+										<a class="page-scroll" href="#411">411</a>
+									</li>
+									<li>
+										<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+									</li>
+									<li>
+										<a class="page-scroll" href="#contact">CONTACT</a>
+									</li>
+								</ul>
+							</div><!-- /.navbar-collapse -->
+						</div><!-- /.container-fluid -->
+					</nav><!-- /.navigation bar -->
 
-		<h1>LEA MCDUFFIE<br>
-			SOFTWARE | GRAPHICS</h1>
-	</header>
+		</header>
 
 		<!-- Content -->
+		<h1>LEA MCDUFFIE<br>
+			SOFTWARE | GRAPHICS</h1>
 		<h2>411</h2>
 		<p>Lea is a software developer specializing in full stack web development, marketing and graphic design.</p>
 		<h2>PORTFOLIO</h2>
