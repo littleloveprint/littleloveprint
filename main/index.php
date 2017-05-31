@@ -107,7 +107,7 @@
 		<!-- Mobile Navigation -->
 		<nav class="menu" id="sm">
 			<div class="sm-wrap">
-				<a href="index.php"><img title="polo" alt="polo" class="logo" src="img/logo-white.png"/></a>
+				<a href="index.php"><img title="littleloveprint" alt="littleloveprint" class="logo" src="img/icons/trans-logo.png"/></a>
 				<i class="icon-remove menu-close"></i>
 				<a class="scroll" href="#intro">HOME</a>
 				<a class="scroll" href="#about">411</a>
@@ -117,7 +117,7 @@
 
 			<!-- Navigation Trigger Button -->
 			<div id="sm-trigger"></div>
-		</nav><!-- /Mobile only  Navigation -->
+		</nav><!-- /Mobile only Navigation -->
 
 		<!-- Top Sliding Panel -->
 		<div id="toppanel" class="toppanel">
@@ -128,8 +128,7 @@
 					<div class="row">
 
 						<article class="col-md-6 text-left">
-							<img alt="littleloveprint" title="littleloveprint" class="img-responsive"
-								  src="img/toplogo.png"/>
+							<img alt="littleloveprint" title="littleloveprint" class="img-responsive" src="img/toplogo.png"/>
 							<h6 class="brand dark"><span>littleloveprint</span></h6>
 						</article>
 
@@ -154,7 +153,7 @@
 			<header id="intro-header" class="intro-header">
 				<div class="row">
 					<article class="col-md-3 text-left">
-						<a href="index.php"><img alt="littleloveprint" title="littleloveprint" class="home-logo img-responsive" src="img/logo.png"/></a>
+						<a href="index.php"><img alt="littleloveprint" title="littleloveprint" class="home-logo img-responsive" src="img/icons/trans-logo.png"/></a>
 					</article>
 					<article class="col-md-9 text-right">
 						<ul class="intro-nav  intro-nav-white-text">
@@ -192,7 +191,7 @@
 					<div class="row">
 						<article class="col-md-2 text-left">
 							<img alt="littleloveprint" title="littleloveprint" class="main-logo img-responsive"
-								  src="img/main-logo.png"/>
+								  src="../img-elements/loading.png"/>
 						</article>
 						<article class="col-md-10 text-right">
 							<ul class="standard-nav standard-nav-dark-text">
@@ -214,7 +213,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 text-center hero-caps animated" data-fx="fadeInUpBig">
-								<img alt="littleloveprint" title="littleloveprint" class="logo-badge" src="img/badge.png"/>
+								<img alt="littleloveprint" title="littleloveprint" class="logo-badge" src="img/icons/trans-logo.png"/>
 								<h1 class="color"><span>TRULY CUSTOM</span></h1>
 								<h3 class="dark">WHAT HAPPENS AT LITTLOVEPRINT</h3>
 								<div class="liner-wide text-center"><span class="color-bg"></span></div>
@@ -344,116 +343,6 @@
 
 									<!-- page -->
 									<section id="services" class="page page-section services ">
-
-										<!-- inner-section -->
-										<section class="inner-section color-bg pad-top-half pad-bottom-half">
-											<div class="container">
-												<div class="row">
-													<div class="col-md-10 col-md-offset-1 text-center hero-caps animated"
-														  data-fx="fadeInDownBig">
-														<img alt="littleloveprint" title="littleloveprint"
-															  src="img/icons/services.png"/>
-														<div class="liner-wide text-center"><span class="white-bg"></span></div>
-														<h1 class="main-heading white">THE BASICS</h1>
-														<div class="liner-wide text-center"><span class="white-bg"></span></div>
-													</div>
-												</div>
-											</div>
-										</section><!-- /inner-section -->
-
-										<!-- inner-section -->
-										<section id="service-list-wrap"
-													class="inner-section silver-bg service-list-wrap pad-top pad-bottom-half">
-											<div class="container">
-
-												<!-- service-item-carousel -->
-												<div id="service-list-carousel" class="owl-carousel">
-
-													<div class="item service-item">
-														<a class="scroll" data-service-details-expand="01" href="#service-list-wrap">
-															<div class="col-md-3">
-																<img alt="littleloveprint" title="littleloveprint"
-																	  src="img/services/01.png"/>
-															</div>
-															<div class="col-md-9">
-																<h3 class="promo-heading dark">GRAPHIC DESIGN</h3>
-																<div class="liner-small text-left"><span class="dark-bg"></span></div>
-																<p class="dark">WORDS ABOUT GRAPHIC DESIGN.</p>
-															</div>
-														</a>
-													</div>
-
-													<div class="item service-item">
-														<a class="scroll" data-service-details-expand="02" href="#service-list-wrap">
-															<div class="col-md-3">
-																<img alt="littleloveprint" title="littleloveprint"
-																	  src="img/services/02.png"/>
-															</div>
-															<div class="col-md-9">
-																<h3 class="promo-heading dark">WEB + MOBILE</h3>
-																<div class="liner-small text-left"><span class="dark-bg"></span></div>
-																<p class="dark">WEB WORDS.</p>
-															</div>
-														</a>
-													</div>
-
-													<div class="item service-item">
-														<a class="scroll" data-service-details-expand="03" href="#service-list-wrap">
-															<div class="col-md-3">
-																<img alt="littleloveprint" title="littleloveprint"
-																	  src="img/services/03.png"/>
-															</div>
-															<div class="col-md-9">
-																<h3 class="promo-heading dark">BRAND DEV + MARKETING</h3>
-																<div class="liner-small text-left"><span class="dark-bg"></span></div>
-																<p class="dark">ALL ABOUT THE BRAND.</p>
-															</div>
-														</a>
-													</div>
-
-												</div>
-												<!-- service-item-carousel : ends -->
-
-											</div>
-										</section>
-										<!-- inner-section:ends -->
-
-										<!-- inner-section : starts -->
-										<section id="service-details-wrap"
-													class="inner-section white-bg service-details-wrap pad-top-half pad-bottom">
-
-											<!-- container : starts -->
-											<section class="container">
-												<ul id="features-slider">
-													<li id="service-details-01" class="service-details">
-														<article class="text-center">
-															<h3 class="promo-heading color">MY ART</h3>
-															<div class="liner text-center"><span class="dark-bg"></span></div>
-															<p>ADOBE CREATIVE SUITE, ETC.</p>
-														</article>
-													</li>
-
-													<li id="service-details-02" class="service-details">
-														<article class="text-center">
-															<h3 class="promo-heading color">MY TECH</h3>
-															<div class="liner text-center"><span class="dark-bg"></span></div>
-															<p>LANGUAGES, ETC.</p>
-														</article>
-													</li>
-
-													<li id="service-details-03" class="service-details">
-														<article class="text-center">
-															<h3 class="promo-heading color">YOUR BRAND</h3>
-															<div class="liner text-center"><span class="dark-bg"></span></div>
-															<p>SELL SELL SELL</p>
-														</article>
-													</li>
-												</ul>
-											</section><!-- /container -->
-
-										</section><!-- /inner-section -->
-
-									</section><!-- /page -->
 
 									<!-- page -->
 									<section id="portfolio" class="page page-section portfolio">
@@ -752,7 +641,7 @@
 												<div class="row">
 													<article class="col-md-6 text-left foot-logo">
 														<img alt="littleloveprint" title="littleloveprint"
-															  src="img/logo-dark.png"/>
+															  src="img/toplogo.png"/>
 													</article>
 													<article class="col-md-6 text-right">
 														<ul class="foot-social">
