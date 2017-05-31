@@ -8,7 +8,7 @@
 		<meta name="author" content="Lea McDuffie @littleloveprint lea@littleloveprint.io">
 
 		<!-- Standard Favicon-->
-		<link rel="shortcut icon" href="img/favicon/favicon.ico">
+		<link rel="shortcut icon" href="img/toplogo.png">
 
 		<!-- Standard iPhone Touch Icon-->
 		<link rel="apple-touch-icon" sizes="57x57" href="img/touchicons/apple-touch-icon-57-precomposed"/>
