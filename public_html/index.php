@@ -172,6 +172,9 @@
 									</div>
 								</div>
 
+								<!-- GOOGLE RECAPTCHA -->
+								<div class="g-recaptcha" data-sitekey="6LcnzSMUAAAAAH6mEC_q2lamxZoZPTXz3KqYu1oN"></div>
+
 								<button class="btn btn-default" type="reset">RESET</button>
 								<button class="btn btn-info" type="submit">SEND</button>
 							</form>
