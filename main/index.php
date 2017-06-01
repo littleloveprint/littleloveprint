@@ -47,9 +47,6 @@
 		<!-- Main Responsive Styles -->
 		<link href="stylesheets/main-responsive.css" rel="stylesheet">
 
-		<!-- Main Retina Optimizaton Rules -->
-		<link href="stylesheets/main-retina.css" rel="stylesheet">
-
 		<!-- LESS stylesheet for managing color presets -->
 		<link rel="stylesheet/less" type="text/css" href="less/color-crimson.less">
 		<!-- LESS JS engine-->
