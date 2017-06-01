@@ -132,12 +132,61 @@
 					<div class="row">
 						<div class="col-md-offset-5 col-md-6">
 							<h2>CONTACT</h2>
-							<p>CONTACT INFO AND FORM GO HERE</p>
+
+							<!-- CONTACT FORM -->
+							<form id="contact-form" method="POST" action="php/mailer.php">
+								<div class="form-group">
+									<label for="name">NAME</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-user"></i>
+										</div>
+										<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="email">EMAIL</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-envelope"></i>
+										</div>
+										<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="subject">SUBJECT</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-pencil"></i>
+										</div>
+										<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="message">MESSAGE</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-comment"></i>
+										</div>
+										<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (2000 charaters max)"></textarea>
+									</div>
+								</div>
+
+								<button class="btn btn-default" type="reset">RESET</button>
+								<button class="btn btn-info" type="submit">SEND</button>
+							</form>
+							<!-- /CONTACT FORM-->
+
+							<!-- -->
+							<div class="row">
+								<div class="col-md-6">
+									<div id="output-area"></div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</header>
-
 
 			<section class="section san-francisco">
 				<div class="absolute">
@@ -357,50 +406,6 @@
 						</div>
 					</div>
 			</section>
-
-			<!-- CONTACT FORM -->
-			<form id="contact-form">
-				<div class="form-group">
-					<label for="name">Name</label>
-					<div class="input-group">
-						<div class="input-group-addon">
-							<i class="fa fa-user"></i>
-						</div>
-						<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
-					</div>
-				</div>
-				<div class="form-group">
-					<label for="email">Email</label>
-					<div class="input-group">
-						<div class="input-group-addon">
-							<i class="fa fa-envelope"></i>
-						</div>
-						<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
-					</div>
-				</div>
-				<div class="form-group">
-					<label for="subject">Subject</label>
-					<div class="input-group">
-						<div class="input-group-addon">
-							<i class="fa fa-pencil"></i>
-						</div>
-						<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
-					</div>
-				</div>
-				<div class="form-group">
-					<label for="message">Message</label>
-					<div class="input-group">
-						<div class="input-group-addon">
-							<i class="fa fa-comment"></i>
-						</div>
-						<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (2000 charaters max)"></textarea>
-					</div>
-				</div>
-
-				<button class="btn btn-default" type="reset">Reset</button>
-				<button class="btn btn-info" type="submit">Submit</button>
-			</form>
-			<!-- END CONTACT FORM-->
 
 		</main>
 
