@@ -648,7 +648,7 @@ font-family: 'Open Sans', sans-serif; font-weight:300;
 	cursor: pointer;
 }
 .features-icon.current{
-	background:url(../images/arrow.png) center bottom no-repeat;
+	background:url("../images/arrow.png") center bottom no-repeat;
 }
 .features-icon > h5{
 	margin-top: 10px;
@@ -674,7 +674,7 @@ font-family: 'Open Sans', sans-serif; font-weight:300;
 
 }
 .team-bg{
-	background-image: url('http://www.placehold.it/1980x2800.jpg');
+	background-image: url("../img/placeholder-1980.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: cover;
@@ -907,7 +907,7 @@ fieldset h1 {
 /*MISC PAGES*/
 
 .misc-head-01{
-    background: url('http://www.placehold.it/1980x1320.jpg') 50% 0 no-repeat fixed;
+    background: url("../img/placeholder-1320.png") 50% 0 no-repeat fixed;
 }
 .misc-head h3{
     font-family: 'Raleway',sans-serif;
@@ -991,12 +991,12 @@ font-family: 'Raleway', sans-serif; font-weight:300;
 }
 
 .promotional{
-	background: url('http://www.placehold.it/1920x1272.jpg') 50% 0 no-repeat fixed;
+	background: url("../img/placeholder-1272.png") 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 
 .testimonial{
-	background: url('http://www.placehold.it/1920x1272.jpg') 50% 0 no-repeat fixed;
+	background: url("../img/placeholder-1272.png") 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 

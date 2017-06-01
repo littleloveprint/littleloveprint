@@ -61,15 +61,15 @@
     background-position: center center;
 }
 .intro-02-carousel-item-01{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-02-carousel-item-02{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-02-carousel-item-03{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-03 .pad-inner{
@@ -102,15 +102,15 @@
     background-position: center center;
 }
 .intro-03-carousel-item-01{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-03-carousel-item-02{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-03-carousel-item-03{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-04{
@@ -188,15 +188,15 @@
     background-position: center center;
 }
 .intro-06-carousel-item-01{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-06-carousel-item-02{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-06-carousel-item-03{
-    background-image:url(http://www.placehold.it/1980x1320.jpg);
+    background-image:url("../img/placeholder-19%2F13.png");
 }
 
 .intro-07{
@@ -215,7 +215,7 @@
 }
 
 .poster-img{
-    background-image: url('http://www.placehold.it/1980x1320.jpg') !important;
+    background-image: url("../img/placeholder-19%2F13.png") !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
     background-size: cover !important;
