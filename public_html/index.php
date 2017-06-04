@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		<!-- GOOGLE FONT -->
-		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet">
 
 		<!-- STYLES -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -173,7 +173,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+										<img class="img-circle" src="img/placeholder0.png" alt="image">
 									</div>
 									<div class="col-md-3">
 										<img class="img-responsive" src="img/placeholder0.png" alt="image">
