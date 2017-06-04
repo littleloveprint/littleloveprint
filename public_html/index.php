@@ -71,8 +71,7 @@
 		</div>
 
 		<div class="fixed-top rellax" data-rellax-speed="-2"
-			  style="transform: rotate(45deg);"
-		>
+			  style="transform: rotate(45deg);">
 		</div>
 
 		<main class="main">
@@ -89,53 +88,89 @@
 					</div>
 					<div class="title">
 						<div class="row">
-							<div class="col-md-offset-3 col-md-6">
-								<h2>411<br><span>ALL THE INFO</span></h2>
-								<p>WORDS AND STUFF</P>
+							<div class="col-md-offset-1 col-md-7">
+								<h1>411<br><span>LEA</span></h1>
+								<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</P>
+							</div>
+							<div class="col-md-offset-6 col-md-7">
+								<h1><span>LITTLELOVEPRINT</span></h1>
+								<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p><br>
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-offset-1 col-md-6">
-							<h2>PORTFOLIO</h2>
-							<div class="container">
-								<div class="row">
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-										</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-								</div>
+							<h1>PORTFOLIO</h1>
+							<h2>WEB</h2>
+							<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p>
 						</div>
-							<div class="container">
-								<div class="row">
-									<div class="col-md-4">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-4">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-4">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									</div>
-								</div>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+								<br>
 							</div>
 						</div>
 					</div>
-
-				<div class="row">
-					<div class="col-md-6">
-						<div id="output-area"></div>
+					<div class="row">
+						<div class="col-md-offset-3 col-md-6">
+							<h2>MOBILE</h2>
+							<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p>
+						</div>
 					</div>
-				</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+							<div class="col-md-3">
+								<img class="img-responsive" src="img/placeholder0.png" alt="image">
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-offset-7 col-md-6">
+								<h2>BRAND</h2>
+								<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p>
+							</div>
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3">
+									<img class="img-responsive" src="img/placeholder0.png" alt="image">
+								</div>
+								<div class="col-md-3">
+									<img class="img-responsive" src="img/placeholder0.png" alt="image">
+								</div>
+								<div class="col-md-3">
+									<img class="img-responsive" src="img/placeholder0.png" alt="image">
+								</div>
+								<div class="col-md-3">
+									<img class="img-responsive" src="img/placeholder0.png" alt="image">
+								</div>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-6">
+								<div id="output-area"></div>
+							</div>
+						</div>
 			</header>
 
 			<section class="section san-francisco">
@@ -143,7 +178,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-offset-1 col-md-11">
-								<h2 class="rellax" data-rellax-speed="-3">WORD<br>WORD</h2>
+								<h2 class="rellax" data-rellax-speed="-3">CUSTOM</h2>
 							</div>
 						</div>
 					</div>
@@ -199,14 +234,12 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-5">
 							<div class="date">
-								WHAT TO SAY—<br>
-								SAY<br><br>
-								SAY
+								DEVELOPMENT—
 							</div>
 						</div>
 						<div class="col-md-offset-1 col-md-4">
 							<div class="temp">
-								HOT
+								BRAND
 							</div>
 						</div>
 					</div>
@@ -269,6 +302,13 @@
 					</div>
 				</div>
 			</section>
+
+						<div class="row">
+							<div class="col-md-offset-5 col-md-6">
+								<h1>CONTACT</h1>
+							</div>
+						</div>
+
 						<!-- CONTACT FORM -->
 						<div class="row">
 							<div class="col-md-offset-2 col-md-8">
@@ -276,7 +316,6 @@
 									<code>
 										<div class="row">
 											<div class="col-md-offset-5 col-md-6">
-												<h2>CONTACT</h2>
 												<form id="contact-form" method="POST" action="php/mailer.php">
 													<div class="form-group">
 														<label for="name">NAME</label>
