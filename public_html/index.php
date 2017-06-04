@@ -81,7 +81,8 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-11">
 							<a href="https://littleloveprint.io">
-								<h1>SOFTWARE + GRAPHICS + BRANDING<span>➔</span></h1>
+								<img class="img-responsive" src="img/logo.png" alt="logo">
+								<h1>➔</h1>
 							</a>
 							<div class="white-block"></div>
 						</div>
