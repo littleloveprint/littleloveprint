@@ -173,16 +173,16 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-3">
-										<img class="img-circle" src="img/placeholder0.png" alt="image">
+										<img class="img-responsive img-circle" src="img/BarkParkz.png" alt="Bark Parkz">
 									</div>
 									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+										<img class="img-responsive img-circle" src="img/bosque.png" alt="Bosque">
 									</div>
 									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+										<img class="img-responsive img-circle" src="img/baesic.png" alt="Baesic">
 									</div>
 									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+										<img class="img-responsive img-circle" src="img/hippo.png" alt="HIPPO">
 										<br>
 									</div>
 								</div>
