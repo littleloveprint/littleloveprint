@@ -81,7 +81,7 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-11">
 							<a href="https://littleloveprint.io">
-								<h1>LITTLELOVEPRINT SOFTWARE, GRAPHICS + BRANDING<span>➔</span></h1>
+								<h1>SOFTWARE + GRAPHICS + BRANDING<span>➔</span></h1>
 							</a>
 							<div class="white-block"></div>
 						</div>
@@ -97,7 +97,6 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-6">
 							<h2>PORTFOLIO</h2>
-							<p>IMAGES WILL GO HERE</p>
 							<div class="container">
 								<div class="row">
 									<div class="col-md-3">
@@ -124,69 +123,16 @@
 									</div>
 									<div class="col-md-4">
 										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+									</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-offset-5 col-md-6">
-							<h2>CONTACT</h2>
 
-							<!-- CONTACT FORM -->
-							<form id="contact-form" method="POST" action="php/mailer.php">
-								<div class="form-group">
-									<label for="name">NAME</label>
-									<div class="input-group">
-										<div class="input-group-addon">
-											<i class="fa fa-user"></i>
-										</div>
-										<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
-									</div>
-								</div>
-								<div class="form-group">
-									<label for="email">EMAIL</label>
-									<div class="input-group">
-										<div class="input-group-addon">
-											<i class="fa fa-envelope"></i>
-										</div>
-										<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
-									</div>
-								</div>
-								<div class="form-group">
-									<label for="subject">SUBJECT</label>
-									<div class="input-group">
-										<div class="input-group-addon">
-											<i class="fa fa-pencil"></i>
-										</div>
-										<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
-									</div>
-								</div>
-								<div class="form-group">
-									<label for="message">MESSAGE</label>
-									<div class="input-group">
-										<div class="input-group-addon">
-											<i class="fa fa-comment"></i>
-										</div>
-										<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (2000 charaters max)"></textarea>
-									</div>
-								</div>
-
-								<!-- GOOGLE RECAPTCHA -->
-								<div class="g-recaptcha" data-sitekey="6LcnzSMUAAAAAH6mEC_q2lamxZoZPTXz3KqYu1oN"></div>
-
-								<button class="btn btn-default" type="reset">RESET</button>
-								<button class="btn btn-info" type="submit">SEND</button>
-							</form>
-							<!-- /CONTACT FORM-->
-
-							<!-- -->
-							<div class="row">
-								<div class="col-md-6">
-									<div id="output-area"></div>
-								</div>
-							</div>
-						</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div id="output-area"></div>
 					</div>
 				</div>
 			</header>
@@ -264,79 +210,11 @@
 						</div>
 					</div>
 				</div>
-
-
 			</section>
-
-
-			<section class="section">
-
-			</section>
-
 
 			<section class="section">
 				<div style="margin-top: 200px">
 					<div class="container">
-
-						<div class="row">
-							<div class="col-md-12 text-center">
-								<h4>PUT SOMETHING HERE???</h4>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col-md-offset-2 col-md-8">
-								<div class="text-editor">
-									<code>
-										<span class="purple">LEA</span>MCDUFFIE<span class="green">CODES</span> <span class="white">DESIGNS</span>BRANDS
-									</code>
-								</div>
-							</div>
-						</div>
-
-
-						<div class="row">
-							<div class="col-md-12 text-center" style="margin-top:80px">
-								<h4>MORE STUFF THAT HAPPENS SOMETIMES</h4>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col-md-offset-2 col-md-8">
-								<div class="text-editor">
-									<code>
-										&lt;FOUND<span class="purple">THIS</span>="<span class="green">AND I LIKE IT</span>&gt;<br>
-										<span class="white">I'M SLOW AND SMOOTH</span><br>
-										STUFF
-									</code>
-								</div>
-							</div>
-						</div>
-
-
-						<div class="row">
-							<div class="col-md-12 text-center" style="margin-top:40px">
-								<h4>THERE'S SOME STUFF HERE</h4>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col-md-offset-2 col-md-8">
-								<div class="text-editor">
-									<code>
-										NO<span class="purple">NOPE</span>NADA<span class="green">WHAT?</span>ZIP<span class="purple">LEA, LOOK HERE!</span>HUH?<span class="green">WORD</span>LEAVE ME ALONE<br>
-										<span class="white">OKAY, YOU GOT IT!</span><br>
-										STOP IT!
-									</code>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</section>
-
-
 
 			<section class="section">
 
@@ -372,7 +250,6 @@
 									  style="transform: rotate(45deg);">
 								</div>
 							</div>
-
 						</div>
 					</div>
 				</div>
@@ -381,36 +258,78 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-offset-1 col-md-6">
-								<h4>ONE</h4>
-								<p>SPEAK THE WORDS<a href="mailto:lea@littleloveprint.io">lea@littleloveprint.io</a></p>
 							</div>
 						</div>
 
 						<div class="row" style="margin-top: 140px">
 							<div class="col-md-offset-5 col-md-6">
-								<h4>NOOOOOOO!</h4>
-								<p>BUT ALSO, MAYBE YES.</p>
 							</div>
 						</div>
 					</div>
+				</div>
 			</section>
+						<!-- CONTACT FORM -->
+						<div class="row">
+							<div class="col-md-offset-2 col-md-8">
+								<div class="text-editor">
+									<code>
+										<div class="row">
+											<div class="col-md-offset-5 col-md-6">
+												<h2>CONTACT</h2>
+												<form id="contact-form" method="POST" action="php/mailer.php">
+													<div class="form-group">
+														<label for="name">NAME</label>
+														<div class="input-group">
+															<div class="input-group-addon">
+																<i class="fa fa-user"></i>
+															</div>
+															<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="email">EMAIL</label>
+														<div class="input-group">
+															<div class="input-group-addon">
+																<i class="fa fa-envelope"></i>
+															</div>
+															<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="subject">SUBJECT</label>
+														<div class="input-group">
+															<div class="input-group-addon">
+																<i class="fa fa-pencil"></i>
+															</div>
+															<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
+														</div>
+													</div>
+													<div class="form-group">
+														<label for="message">MESSAGE</label>
+														<div class="input-group">
+															<div class="input-group-addon">
+																<i class="fa fa-comment"></i>
+															</div>
+															<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (1000 charaters max)"></textarea>
+														</div>
+													</div>
 
-			<section class="share">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-offset-1 col-md-3">
-							<a class="dam" href="http://dixonandmoe.com/">OH I THINK THEY LIKE ME</a>
-						</div>
-						<div class="col-md-offset-3 col-md-2">
-							<a href="https://www.facebook.com/sharer/sharer.php?u=http://dixonandmoe.com/rellax/">BUT THEY DON'T REALLY <span>➔</span></a>
-						</div>
-						<div class="col-md-offset-0 col-md-2">
-							<a href="https://twitter.com/share?url=http://dixonandmoe.com/rellax/">I'LL PRETEND<span>➔</span></a>
+													<!-- GOOGLE RECAPTCHA -->
+													<div class="g-recaptcha" data-sitekey="6LcnzSMUAAAAAH6mEC_q2lamxZoZPTXz3KqYu1oN"></div>
+
+													<button class="btn btn-default" type="reset">RESET</button>
+													<button class="btn btn-info" type="submit">SEND</button>
+												</form>
+											</div>
+										</div>
+									</code>
+								</div>
+							</div>
 						</div>
 					</div>
-			</section>
+				</div>
+			</section><!-- /CONTACT FORM-->
 
 		</main>
-
 	</body>
 </html>
