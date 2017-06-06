@@ -8,7 +8,7 @@ html, body {
 }
 
 section #home .page {
-	background-image: url("/img/horiz.jpg");
+	background-image: url("../img/horiz.jpg");
 }
 
 /* CORRECTS IE MIN HEIGHT BUG */
@@ -449,7 +449,6 @@ footer {
 	overflow-y: auto;
 	position: absolute;
 	width: 100%;
-	height: 100%;
 }
 
 li a {
