@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html" lang="en">
+
 	<head>
 
-		<meta charset="utf-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-		<meta name="description" content="Portfolio website for Lea McDuffie"/>
-		<meta name="author" content="Lea McDuffie"/>
-		<meta name="version" content="4.0"/>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="description" content="Portfolio website for Lea McDuffie">
+		<meta name="author" content="Lea McDuffie">
+		<meta name="version" content="4.0">
 
 		<!-- BOOTSTRAP -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -27,13 +28,14 @@
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
+		<!--[if lt IE 9] -->
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
+		<!--[endif]-->
 
 		<!-- jQuery v3.0 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" type="text/javascript"></script>
+		<script src="js/jquery.js"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -43,10 +45,11 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+		<!-- Bootstrap Core JavaScript -->
+		<script src="js/bootstrap.min.js"></script>
+
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
-
-		<title>littleloveprint</title>
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -54,9 +57,11 @@
 		<!-- Scrolling Nav JavaScript -->
 		<script src="js/jquery.easing.min.js"></script>
 		<script src="js/scrolling-nav.js"></script>
+
+		<title>littleloveprint</title>
 	</head>
 
-	<body class="sfooter" id="page-top" data-spy="scroll" data-targer=".navbar-fixed-bottom">
+	<body class="sfooter" id="page-top" data-spy="scroll" data-target=".navbar-fixed-bottom">
 		<div class="sfooter-content">
 
 			<header>
@@ -67,13 +72,13 @@
 
 						<!-- MOBILE DISPLAY -->
 						<div class="navbar-header page-scroll">
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-header page scroll" href="#page-top"></a>
+							<a class="navbar-brand page-scroll" href="#page-top"></a>
 								<a class="navbar-left" href="#"><img src="img/2.png" alt="littleloveprint logo"/></a>
 						</div>
 
@@ -84,7 +89,7 @@
 									<a class="page-scroll" href="#page-top"></a>
 								</li>
 								<li>
-									<a class="page-scroll" href="#home">HOME</a>
+									<a class="page-scroll" href="#intro">HOME</a>
 								</li>
 								<li>
 									<a class="page-scroll" href="#about">411</a>
@@ -101,31 +106,18 @@
 				</nav>
 			</header>
 
-			<section id="intro" class="intro intro-01 text-left">
-				<div class="grid">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-offset-1 col-md-2">
-								<div class="grid-line"></div>
-							</div>
-							<div class="col-md-2">
-								<div class="grid-line"></div>
-							</div>
-							<div class="col-md-2">
-								<div class="grid-line"></div>
-							</div>
-							<div class="col-md-2">
-								<div class="grid-line"></div>
-							</div>
-							<div class="col-md-2">
-								<div class="grid-line" style="margin-right:-30px;border-right:1px solid #ccc"></div>
-							</div>
+			<!-- Intro Section -->
+			<section id="intro" class="intro-section">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
 						</div>
 					</div>
 				</div>
+			</section>
 
-					<div class="fixed-bottom rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
-				</div>
+			<div class="fixed-bottom rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
+			</div>
 					<main class="main">
 						<div class="container pt-1 mb-3">
 							<div class="row">
