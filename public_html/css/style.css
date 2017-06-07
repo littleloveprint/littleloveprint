@@ -15,6 +15,11 @@ body {
 	width: 90%;
 }
 
+.img-responsive.img-circle {
+	height: 290px;
+	width: 350px;
+}
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
@@ -73,7 +78,7 @@ header .title {
 	margin-top: 80px;
 }
 header h1 {
-	font-size: 96px;
+	font-size: 120px;
 	font-weight: 900;
 	letter-spacing: 0.12em;
 	margin: 0;
@@ -82,7 +87,7 @@ header h1 {
 
 header h1 span {
 	display: inline-block;
-	font-size: 20px;
+	font-size: 96px;
 	margin-top: 18px;
 	vertical-align: top;
 	letter-spacing: 0;
@@ -96,7 +101,7 @@ header .title a {
 	padding: 26px 80px;
 	color: #fff;
 	border-radius: 12px;
-	font-size: 26px;
+	font-size: 96px;
 	letter-spacing: 0.2em;
 	transition: all 300ms cubic-bezier(0.68, -0.1, 0.265, 1.55);
 }
@@ -514,7 +519,7 @@ footer {
 	}
 
 	.big-logo-row h1 {
-		font-size: 4em;
+		font-size: 6em;
 		margin: 0;
 		padding: 0 0 15px 0;
 	}
