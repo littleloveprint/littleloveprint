@@ -311,7 +311,7 @@
 								</div>
 							</div>
 						</div>
-					</section><!-- /CONTACT FORM-->
+					</section><!-- /CONTACT FORM--><br><br><br>
 
 					<footer class="bg-info text-center">
 						<div class="container">
