@@ -61,14 +61,14 @@
 		<title>littleloveprint</title>
 	</head>
 
-	<body class="sfooter" id="page-top" data-spy="scroll" data-target=".navbar-fixed-bottom">
+	<body class="sfooter" id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" data-offset="200">
 		<div class="sfooter-content">
 
 			<header>
 
 				<!-- NAVBAR -->
-				<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
-					<div class="container-fluid" id="wrapper">
+				<div class="container-fluid" id="wrapper">
+					<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 
 						<!-- MOBILE DISPLAY -->
 						<div class="navbar-header page-scroll">
@@ -116,7 +116,7 @@
 				</div>
 			</section>
 
-			<div class="fixed-bottom rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
+			<div class="fixed-top rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
 			</div>
 					<main class="main">
 						<div class="container pt-1 mb-3">

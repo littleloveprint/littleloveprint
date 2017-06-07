@@ -122,7 +122,7 @@ header h3 {
 	width: 100%;
 }
 
-.fixed-bottom {
+.fixed-top {
 	position: absolute;
 	width: 600px;
 	height: 600px;
@@ -436,7 +436,7 @@ footer {
 	}
 
 	@media (max-width: 767px) {
-		.navbar-default.navbar-fixed-bottom {
+		.navbar-default.navbar-fixed-top {
 			overflow: hidden;
 			overflow-y: auto;
 			position: absolute;
@@ -452,7 +452,7 @@ footer {
 		color: teal;
 	}
 
-	.navbar.navbar-default.navbar-fixed-bottom {
+	.navbar.navbar-default.navbar-fixed-top {
 		overflow: hidden;
 		overflow-y: auto;
 		position: absolute;
