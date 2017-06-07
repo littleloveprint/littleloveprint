@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/html" lang="en">
 	<head>
 
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-		<meta name="description" content="Portfolio website for Lea McDuffie">
-		<meta name="author" content="Lea McDuffie">
-		<meta name="version" content="4.0">
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+		<meta name="description" content="Portfolio website for Lea McDuffie"/>
+		<meta name="author" content="Lea McDuffie"/>
+		<meta name="version" content="4.0"/>
 
 		<!-- BOOTSTRAP -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -22,7 +22,7 @@
 		<!-- GOOGLE FONT -->
 		<link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet">
 
-		<!-- STYLES -->
+		<!-- CUSTOM STYLES -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -56,14 +56,14 @@
 		<script src="js/scrolling-nav.js"></script>
 	</head>
 
-	<body class="sfooter" id="page-top" data-spy="scroll" data-targer=".navbar-fixed-top">
+	<body class="sfooter" id="page-top" data-spy="scroll" data-targer=".navbar-fixed-bottom">
 		<div class="sfooter-content">
 
 			<header>
 
 				<!-- NAVBAR -->
-				<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-					<div class="container-fluid">
+				<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+					<div class="container-fluid" id="wrapper">
 
 						<!-- MOBILE DISPLAY -->
 						<div class="navbar-header page-scroll">
@@ -124,7 +124,7 @@
 					</div>
 				</div>
 
-					<div class="fixed-top rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
+					<div class="fixed-bottom rellax" data-rellax-speed="-2" style="transform: rotate(45deg);">
 				</div>
 					<main class="main">
 						<div class="container pt-1 mb-3">
@@ -151,7 +151,7 @@
 							<div class="row">
 								<div class="col-md-offset-1 col-md-12">
 									<h1>411<br><span>LEA</span></h1>
-									<p>Lea was first introduced to coding during her sophomore year in college in 2007. She learned HTML, basic CSS, and she learned how to navigate Dreamweaver. Not having studied any other coding languages, but being skilled and experienced in graphic design, Lea started working on freelance projects designing logos and updating the front ends of websites.</p><br>
+									<p>Lea was first introduced to coding in 2007 during her sophomore year in college. She learned HTML, basic CSS, and she dipped her toes into Dreamweaver. Not having studied any other coding languages, but being skilled and experienced in graphic design, Lea started working on freelance projects designing logos and updating front ends of websites.</p><br>
 									<p>After working for ten years in brand development, product management and web design, Lea decided it was time to update and advance her coding skills. From prior education and experience, and after courses taken with Codecademy, Lynda, Google's Nanodegree programs and a Fullstack Web Dev bootcamp with the CNM STEMulus Center, some of Lea's skills include:</p><br>
 									<ul>
 										<li>ANDROID</li>
