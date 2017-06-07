@@ -89,9 +89,6 @@
 									<a class="page-scroll" href="#page-top"></a>
 								</li>
 								<li>
-									<a class="page-scroll" href="#intro">HOME</a>
-								</li>
-								<li>
 									<a class="page-scroll" href="#about">411</a>
 								</li>
 								<li>
@@ -103,7 +100,6 @@
 							</ul>
 						</div>
 					</div>
-				</nav>
 			</header>
 
 			<!-- Intro Section -->
@@ -132,19 +128,12 @@
 					</main>
 				</div>
 
-		<section id="home" class="page page-section home">
-			<div class="row">
-				<div class="col-md-offset-1 col-md-12">
-				</div>
-			</div>
-		</section>
-
 				<section id="about" class="page page-section about">
 							<div class="row">
 								<div class="col-md-offset-1 col-md-12">
-									<h1>411<br><span>LEA</span></h1>
+									<h1><br><br>411<br><span>LEA</span></h1>
 									<p>Lea was first introduced to coding in 2007 during her sophomore year in college. She learned HTML, basic CSS, and she dipped her toes into Dreamweaver. Not having studied any other coding languages, but being skilled and experienced in graphic design, Lea started working on freelance projects designing logos and updating front ends of websites.</p><br>
-									<p>After working for ten years in brand development, product management and web design, Lea decided it was time to update and advance her coding skills. From prior education and experience, and after courses taken with Codecademy, Lynda, Google's Nanodegree programs and a Fullstack Web Dev bootcamp with the CNM STEMulus Center, some of Lea's skills include:</p><br>
+									<p>After working for ten years in brand development, product management and web design, Lea decided it was time to update and advance her coding skills. With prior education and experience, and after courses taken with Codecademy, Lynda, Google's Nanodegree programs and a Fullstack Web Dev bootcamp with the CNM STEMulus Center, some of Lea's skills include:</p><br>
 									<ul>
 										<li>ANDROID</li>
 										<li>ANGULAR</li>
@@ -152,14 +141,12 @@
 										<li>CSS</li>
 										<li>GIT</li>
 										<li>GITHUB</li>
-										<li>G SUITE</li>
 										<li>HTML</li>
 										<li>IOS</li>
 										<li>JAVASCRIPT</li>
 										<li>JQUERY</li>
 										<li>ILLUSTRATOR</li>
 										<li>INDESIGN</li>
-										<li>MICROSOFT OFFICE</li>
 										<li>PHOTOSHOP</li>
 										<li>MYSQL</li>
 										<li>PHP</li>
@@ -171,57 +158,84 @@
 				<section id="portfolio" class="page page-section portfolio">
 							<div class="row">
 								<div class="col-md-offset-7 col-md-6">
-									<h1>PORTFOLIO</h1>
+									<h1><br><br>PORTFOLIO</h1>
 									<h2>WEB</h2>
-									<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p><br><br><br>
 								</div>
 							</div>
 							<div class="container">
 								<div class="row">
 									<div class="col-md-4">
 										<img class="img-responsive" src="img/BarkParkz.png" alt="Bark Parkz">
+										<p>Bark Parkz is a social networking site for dog owners. Users can create profiles, view local parks, check into and out of parks and make friends. Lea had her hands in every aspect of the site, from backend to front end. Bark Parkz 1.0 will launch June 14, 2017.</p>
 									</div>
 									<div class="col-md-4">
 										<img class="img-responsive" src="img/bosque.png" alt="Bosque">
+										<p>Working on the front end only, Lea was a part of the re-branding team at Bosque Brewing Co., and transformed the site to reflect the new identity. Daily content creation and design research begin her list of accomplishments with this site.</p>
 									</div>
 									<div class="col-md-4">
 										<img class="img-responsive" src="img/baesic.png" alt="Baesic">
+										<p>The Baesic. Co. is a large, fashion e-commerce website. The site is still in the planning phase, but is scheduled to launch in late July, 2017.</p>
 									</div>
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-offset-3 col-md-6">
+								<div class="col-md-offset-5 col-md-6">
 									<h2>MOBILE</h2>
-									<p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p><br><br><br>
 								</div>
 							</div>
-							<div class="container">
+							<div class="container col-md-offset-6">
 								<div class="row">
 									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
-									</div>
-									<div class="col-md-3">
-										<img class="img-responsive" src="img/placeholder0.png" alt="image">
+										<img class="img-responsive" src="img/bosque-mobile-app.png" alt="bosque mobile app">
+										<p>100% custom iOS and Android apps for Bosque Brewing Co., coming soon!</p>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-md-offset-1 col-md-6">
 										<h2>BRAND</h2>
-										<p>Graphic design > staging > photography > image manipulation > photo editing > logo design > merchandise design > styling > and more!</p>
+										<p>Graphic design > staging > photography > image manipulation > photo editing > logo design > apparel and merchandise design > styling > and more!</p>
 									</div>
 								</div>
 							</div>
-							<div class="container">
-								<div class="row">
-									<p>INSERT SLIDESHOW</p>
-								</div>
-							</div>
+					<div class="container">
+						<div id="main_area">
+
+							<!-- SLIDER -->
+							<div class="row">
+									<div class="col-xs-12" id="slider">
+
+										<!-- TOP PART OF SLIDER -->
+										<div class="row">
+											<div class="col-sm-12" id="carousel-bounding-box">
+												<div class="carousel slide" id="myCarousel">
+
+													<!-- CAROUSEL ITEMS -->
+													<div class="carousel-inner">
+														<div class="active item" data-slide-number="0">
+															<img src="img/baesicco.png" class="img-responsive"></div>
+
+														<div class="item" data-slide-number="1">
+															<img src="img/brand4.gif" class="img-responsive"></div>
+
+														<div class="item" data-slide-number="2">
+															<img src="img/brand5.jpg" class="img-responsive"></div>
+
+														<div class="item" data-slide-number="3">
+															<img src="img/contento.png" class="img-responsive"></div>
+													</div>
+
+													<!-- CAROUSEL NAV -->
+													<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+														<span class="glyphicon glyphicon-chevron-left"></span>
+													</a>
+													<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+														<span class="glyphicon glyphicon-chevron-right"></span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div><!-- END SLIDER -->
 
 							<div class="row">
 								<div class="col-md-6">
@@ -268,10 +282,6 @@
 									<div class="col-md-offset-1 col-md-6">
 									</div>
 								</div>
-								<div class="row" style="margin-top: 140px">
-									<div class="col-md-offset-5 col-md-6">
-									</div>
-								</div>
 							</div>
 						</div>
 					</section>
@@ -279,7 +289,7 @@
 					<section id="contact" class="page page-section contact">
 						<div class="row">
 							<div class="col-md-offset-5 col-md-6">
-								<h1>CONTACT</h1>
+								<h1><br><br>CONTACT</h1>
 							</div>
 						</div>
 

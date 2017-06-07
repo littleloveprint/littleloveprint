@@ -7,10 +7,6 @@ html, body {
 	overflow-x: hidden;
 }
 
-section #home .page {
-	background-image: url("../img/horiz.jpg");
-}
-
 /* CORRECTS IE MIN HEIGHT BUG */
 html {
 	display: flex;
@@ -237,7 +233,8 @@ section.san-francisco {
 }
 
 .text-editor {
-	background: black;
+	background-image: url("../img/buscards.jpg");
+	background-size: contain;
 	padding: 60px 50px;
 	border-radius: 12px;
 	margin-left: 15px;
@@ -249,7 +246,7 @@ code {
 	font-size: 22px;
 	background: none;
 	border-radius: 0;
-	color: teal;
+	color: white;
 }
 
 .md-facebook {
@@ -558,5 +555,24 @@ footer {
 			border: 7px solid teal;
 			height: 230px;
 			width: 275px;*/
+	}
+
+	/* GALLERY */
+	.hide-bullets {
+		list-style:none;
+		margin-left: -40px;
+		margin-top:20px;
+	}
+
+	.thumbnail {
+		padding: 0;
+	}
+
+	.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+		width: 100%;
+	}
+
+	.carousel {
+		margin-top: 51px;
 	}
 }
