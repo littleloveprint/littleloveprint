@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	/* Begin validation*/
+	/* begin validation*/
 	$("#contact-form").validate({
 
 		// setup handling of form errors
@@ -9,36 +9,34 @@ $(document).ready(function(){
 		errorLabelContainer: "#output-area",
 		errorElement: "div",
 
-		// Rules define what is good/bad input.
-		// Each rule starts with the form input element's NAME attribute.
+		// rules define what is good/bad input
+		// each rule starts with the form input element's NAME attribute
 		rules: {
 			name: {
 				required: true
 			},
 			email: {
-				email: true, // Checks if the email entered is valid.
+				email: true,
 				required: true
 			},
 			message: {
 				required: true,
-				minlength: 5,
-				maxlength: 1000
+				maxlength: 2000
 			}
 		},
 
-		// Error messages to display to the end user
+		// error messages to display to the end user
 		messages: {
 			name: {
 				required: "Please enter your name."
 			},
 			email: {
 				email: "Please enter a valid email address.",
-				required: "Please enter an email address."
+				required: "Please enter a valid email address."
 			},
 			message: {
 				required: "Please enter a message.",
-				minlength: "You must enter at least 5 characters.",
-				maxlength: "1000 character max."
+				maxlength: "2000 characters max."
 			}
 		},
 
