@@ -217,7 +217,7 @@
 											<!-- CAROUSEL ITEMS -->
 											<div class="carousel-inner">
 												<div class="active item" data-slide-number="0">
-													<img src="img/baesicco.png" class="img-responsive"></div>
+													<img src="img/baesicco.png" class="img-responsive" height="486" width="365"></div>
 
 												<div class="item" data-slide-number="1">
 													<img src="img/brand4.gif" class="img-responsive"></div>
@@ -227,6 +227,9 @@
 
 												<div class="item" data-slide-number="3">
 													<img src="img/contento.png" class="img-responsive"></div>
+
+												<div class="item" data-slide-number="3">
+													<img src="img/brand0.jpg" class="img-responsive"></div>
 											</div>
 
 											<!-- CAROUSEL NAV -->
@@ -317,13 +320,13 @@
 								<div class="col-xs-12 col-md-offset-0">
 									Lea McDuffie © 2017
 
-									<a href="https://github.com/littleloveprint"><img src="img/1496840117_social_media_social_media_logo_github.png" alt="Lea McDuffie Github"></a>
+									<a href="https://github.com/littleloveprint"><img src="img/github.png" alt="Lea McDuffie Github"></a>
 
-									<a href="https://www.linkedin.com/in/littleloveprint/"><img src="img/1497001997_linkedin_social_media_logo-.png" alt="Lea McDuffie LinkedIn"></a>
+									<a href="https://www.linkedin.com/in/littleloveprint/"><img src="img/linkedin.png" alt="Lea McDuffie LinkedIn"></a>
 
-									<a href="https://twitter.com/littleloveprint"><img src="img/1497002001_twitter_social_media_logo-.png" alt="Lea McDuffie Twitter"></a>
+									<a href="https://twitter.com/littleloveprint"><img src="img/twitter.png" alt="Lea McDuffie Twitter"></a>
 
-									<a href="https://www.facebook.com/littleloveprint"><img src="img/1497001966_facebook_social_media_logo-.png" alt="Lea McDuffie Facebook"></a>
+									<a href="https://www.facebook.com/littleloveprint"><img src="img/facebook.png" alt="Lea McDuffie Facebook"></a>
 								</div>
 							</div>
 						</div>
