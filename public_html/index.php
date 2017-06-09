@@ -4,7 +4,7 @@
 	<head>
 
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta name="description" content="Portfolio website for Lea McDuffie">
 		<meta name="author" content="Lea McDuffie">
@@ -21,7 +21,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		<!-- GOOGLE FONT -->
-		<link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet" type="text/css">
 
 		<!-- CUSTOM STYLES -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -29,8 +29,8 @@
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9] -->
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
 		<!--[endif]-->
 
 		<!-- jQuery v3.0 -->
@@ -126,7 +126,6 @@
 										<a href="#contact">
 											<h1>➔</h1>
 										</a>
-										<div class="white-block"></div>
 									</div>
 								</div>
 							</div>
@@ -177,7 +176,7 @@
 						</div>
 						<div class="col-md-4">
 							<img class="img-responsive" src="img/bosque.png" alt="Bosque">
-							<p>Working on the front end only, Lea was a part of the re-branding team at Bosque Brewing Co., and transformed the site to reflect the new identity. Daily content creation and design research begin her list of accomplishments with this site.</p>
+							<p>Working on the front end only, Lea re-branded the site and developed content to reflect the new identity. Content development and daily design research begin her list of accomplishments with this site.</p>
 						</div>
 						<div class="col-md-4">
 							<img class="img-responsive" src="img/baesic.png" alt="Baesic">
