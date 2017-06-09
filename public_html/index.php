@@ -319,13 +319,11 @@
 
 									<a href="https://github.com/littleloveprint"><img src="img/1496840117_social_media_social_media_logo_github.png" alt="Lea McDuffie Github"></a>
 
-									<a href="https://www.linkedin.com/in/littleloveprint/"><img src="img/1496840153_social_media_social_media_logo_likedin.png" alt="Lea McDuffie LinkedIn"></a>
+									<a href="https://www.linkedin.com/in/littleloveprint/"><img src="img/1497001997_linkedin_social_media_logo-.png" alt="Lea McDuffie LinkedIn"></a>
 
-									<a href="https://twitter.com/littleloveprint"><img src="img/1496840057_social_media_social_media_logo_twitter.png" alt="Lea McDuffie Twitter"></a>
+									<a href="https://twitter.com/littleloveprint"><img src="img/1497002001_twitter_social_media_logo-.png" alt="Lea McDuffie Twitter"></a>
 
-									<a href="https://www.facebook.com/littleloveprint"><img src="img/1496840068_social_media_social_media_logo_facebook.png" alt="Lea McDuffie Facebook"></a>
-
-									<a href="https://hangouts.google.com/group/gQd1Qp4K8RJv71xg1"><img src="img/1496840099_social_media_social_media_logo_hangout.png" alt="Lea McDuffie Hangout"></a>
+									<a href="https://www.facebook.com/littleloveprint"><img src="img/1497001966_facebook_social_media_logo-.png" alt="Lea McDuffie Facebook"></a>
 								</div>
 							</div>
 						</div>
