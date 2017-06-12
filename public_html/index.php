@@ -305,7 +305,7 @@
 											<!-- GOOGLE RECAPTCHA -->
 											<div class="g-recaptcha" data-sitekey="6LcnzSMUAAAAAH6mEC_q2lamxZoZPTXz3KqYu1oN"></div>
 
-											<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> SEND</button>
+											<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i> SEND</button>
 											<button class="btn btn-default" type="reset">RESET</button>
 										</form>
 									</code>
