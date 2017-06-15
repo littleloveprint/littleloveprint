@@ -30,3 +30,34 @@ Overall your html is great and I think your PWP is going to come out looking gre
 
 ## Milestone 2b Feedback
 Detailed feedback left via Slack. Send me a DM this weekend if you run into issues. Your Milestone 2b passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) 
+
+## Milestone 3 / Final PWP Evaluation
+I see that you've done a lot of work after the due date - so I have to base your grade evaluation on your repository at the last commit before 12:00 on 6/7/17. https://github.com/littleloveprint/littleloveprint/tree/a119983a5022d2308a66b3c6a6dae00fc6ac2985
+
+It looks like you have a really beautiful direction you are heading towards here, but the implementation can use a little refinement. Consistency with the UI elements in the Bootstrap grid will help a lot - and you're really close. Overall I think there is too much complexity in the grid structure here, and too many columns and offsets. My biggest suggestion is to simplify. There are some suggestions I have listed in the **Edits &amp; Suggestions** section below.
+
+It looks like you have the Rellax library loaded via Bower AND npm, but also have both the minified and development files included in the site at the root of the /public_html directory too. These files really belong in the /js directory, and only require one method of inclusion in your project - not three. The simplest method to include this library in your project would just to include `rellax.min.js` in your /js folder, load it in your &lt;head&gt; tag. But I don't see it implemented on the site at all. It's really best that you clean up and remove all the things that are "dead code" and not implemented.
+
+Overall - what I see are too many complexities that you seem to have struggled with. I would definitely suggest going back to basics, and build things up one step at a time. Utilizing and debugging 3rd party tools (other people's code) is really a much more difficult and complex way to go before mastering the basics from scratch. You definitely have an eye and a talent for front-end, so continue to practice and implement your ideas. I particularly love the [Codrops Blog](https://tympanus.net/codrops/) and [CSS Tricks](https://css-tricks.com/) for inspiration and tutorials. But I cannot emphasize the importance of mastering the fundamentals before diving into complex territory.
+
+It looks like you have the contact form wired up successfully on your live deployment - nice work. Check your email and see if you got my test message. One UX/UI problem I see is that your form output-area is placing the error/success output way up above the form in the wrong place... right under the image carousel.
+
+You had some ambitious ideas for PWP - and I congratulate you on challenging yourself. You're almost there. Continue to practice your front end skills, you have a talent for it. Your Milestone 3/Final Delivery for PWP passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+Your overall passing grade across all of your PWP Milestones is [27/40 points (67.5%)](https://bootcamp-coders.cnm.edu/projects/personal/rubric/#sample-score).
+
+- Milestone 1 - 20%: Tier IV 40(0.2) = 6
+- Milestone 2a - 20%: Tier IV 40(0.2) = 8
+- Milestone 2b - 10%: Tier III 30(0.1) = 3
+- Milestone 3 - 50%: Tier  II 20(0.5) = 10
+
+### Edits &amp; Suggestions
+- The output area for your contact form in in the wrong place - it renders up above the form, under the image slider. Move lines 248-252 down under 310.
+- I would consider linking up your portfolio items to the URLs of the projects, or a slideshow so I could see more details regarding the work you did! It looks like beautiful impressive stuff - I was wanting to see more. :)
+- Try formatting your images inside the slider to have consistent dimensions - this really helps things work better inside image sliders.
+- combining a `container` class and a Bootstrap grid class on the same div is going to cause layout issues: see line 191.
+- It's incorrect to use the &lt;code&gt; tag around a form. Use CSS to style the form field font-style.
+- Highly recommended to use the `target="_blank"` attribute on all external links to open them in a new tab - general UX good practice.
+- Avoid overuse of the &lt;br&gt; tag to space out page elements. Use padding and/or margin in your CSS instead. See line 315.
+- Watch HTML indentation
+- Remove all dead code and redundant dependencies. You have too much js that's not being used at all. Delete `jquery.js`, `bootstrap.js`, `bootstrap.min.js` from your /js directory - all of these you are loading via CDN links. And any other js libraries that you are not using or loading, like rellax.js, mine.js... etc. Same applies to your CSS... you are loading all the necessary Bootstrap CSS via the CDN link, so you don't need to have `bootstrap.css` and `bootstrap.min.css`.
