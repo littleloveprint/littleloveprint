@@ -171,7 +171,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<img class="img-responsive" src="img/BarkParkz.png" alt="Bark Parkz">
-							<p>Bark Parkz is a social networking site for dog owners. Users can create profiles, view local parks, check into and out of parks and make friends. Lea had her hands in every aspect of the site, from backend to front end. Bark Parkz 1.0 will launch June 14, 2017.</p>
+							<p>Bark Parkz is a social networking site for dog owners. Users can create profiles, view local parks, check into and out of parks and make friends. Lea had her hands in every aspect of the site, from backend to front end. Bark Parkz Beta is now live.</p>
 						</div>
 						<div class="col-md-4">
 							<img class="img-responsive" src="img/bosque.png" alt="Bosque">
@@ -188,7 +188,7 @@
 						<h2>MOBILE</h2>
 					</div>
 				</div>
-				<div class="container col-md-offset-6">
+				<div class="col-md-offset-6">
 					<div class="row">
 						<div class="col-md-3">
 							<img class="img-responsive" src="img/bosque-mobile-app.png" alt="bosque mobile app">
@@ -244,12 +244,6 @@
 								</div>
 							</div>
 						</div><!-- END SLIDER -->
-
-						<div class="row">
-							<div class="col-md-6">
-								<div id="output-area"></div>
-							</div>
-						</div>
 			</section>
 
 					<section id="contact" class="page page-section contact">
@@ -308,6 +302,12 @@
 											<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i> SEND</button>
 											<button class="btn btn-default" type="reset">RESET</button>
 										</form>
+
+										<div class="row">
+											<div class="col-md-6">
+												<div id="output-area"></div>
+											</div>
+										</div>
 									</code>
 								</div>
 							</div>
